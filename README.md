@@ -19,3 +19,29 @@ Tiene la certificación SSL
 
 [![Certificacion.png](https://i.postimg.cc/7YJC0KhQ/Certificacion.png)](https://postimg.cc/4mZNTbzz)
 
+## Llamadas API
+Se implementó llamadas a una API, y se integró correctamente al sitio web. Para ello usamos PayPal, utilizando métodos de autenticación y autorización adecuados.
+
+[![API.png](https://i.postimg.cc/j2pSMr23/API.png)](https://postimg.cc/bSRPvWQ1)
+
+Configuración dentro de ajustes del sitio web:
+
+[![PAy.png](https://i.postimg.cc/KcwjGtf7/PAy.png)](https://postimg.cc/yWhsngwW)
+
+## Simulación de Pasarela de Pagos
+En el sitio Web se implementó una pequeña simulación del proceso de pago, desde la selección de cualquier producto hasta la confirmación del pago.
+
+[![Pago.png](https://i.postimg.cc/yN1YQj6K/Pago.png)](https://postimg.cc/v4KsDW62)
+
+Nos aseguramos que siga las mejores prácticas de seguridad en pagos, como validación de datos del cliente, forma de pago, etc.
+
+[![Realizar-pago.png](https://i.postimg.cc/WtcsM6YQ/Realizar-pago.png)](https://postimg.cc/QKSLD53b)
+
+## Aplicación Modelo DevSecOps
+Para mayor seguridad de los usuarios, se aplicó en la página web, varias prácticas de seguridad como la identificación de dos factores.
+
+[![2FA.png](https://i.postimg.cc/prH2jJ63/2FA.png)](https://postimg.cc/62MJJnwh)
+
+Se tiene un monitoreo Continuo ante las amenazas y vulnerabilidades.
+
+[![Proteccion.png](https://i.postimg.cc/PJQdQ8GJ/Proteccion.png)](https://postimg.cc/sG1FVxgC)
