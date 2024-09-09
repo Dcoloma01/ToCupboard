@@ -6,4 +6,3 @@ Desarrollo de una página web con WordPress, que incluya llamadas a una API y un
 </p>
 [![Dise-o-web.png](https://i.postimg.cc/rwvN5dq5/Dise-o-web.png)](https://postimg.cc/k2vSmg65)
 
-Se incluyó de igual manera
