@@ -4,5 +4,6 @@ Desarrollo de una página web con WordPress, que incluya llamadas a una API y un
 ## Diseño de la Página Web en Wordpress
 <p style="text-align: justify;">Se realizó un diseño acorde a los solicitado para la empresa "ToCupboard" que corresponde a  una plataforma e-commerce destinada a facilitar a sus usuarios la compra de estos productos y orientada a apoyar a los pequeños comerciantes. Donde la empresa necesitaba implementar una estrategia de seguridad robusta para proteger la información de clientes y vendedores.
 </p>
+
 [![Dise-o-web.png](https://i.postimg.cc/rwvN5dq5/Dise-o-web.png)](https://postimg.cc/k2vSmg65)
 
