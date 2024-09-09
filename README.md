@@ -11,3 +11,9 @@ Se incluyó páginas como Inicio, Sobre Nosotros, Productos/Servicios, Contacto.
 
 [![Incluyo.png](https://i.postimg.cc/N0crgRgC/Incluyo.png)](https://postimg.cc/zyxf7bHT)
 
+Me aseguré de que el sitio cumpla con las mejores prácticas de seguridad desde el diseño:
+
+[![imagen-2024-09-09-002159041.png](https://i.postimg.cc/WzChxkWn/imagen-2024-09-09-002159041.png)](https://postimg.cc/GTPLyH18)
+
+Tiene la certificación SSL
+[![Certificacion.png](https://i.postimg.cc/7YJC0KhQ/Certificacion.png)](https://postimg.cc/4mZNTbzz)
