@@ -1,4 +1,4 @@
-# Página Web con Wordpress, con llamadas API y Simulación de Pasarela de Pagos
+<p style="text-align: justify;"># Página Web con Wordpress, con llamadas API y Simulación de Pasarela de Pagos</p>
 Desarrollo de una página web con WordPress, que incluya llamadas a una API y una simulación de una pasarela de pagos, aplicando el modelo DevSecOps.
 
 ## Diseño de la Página Web en Wordpress
