@@ -7,3 +7,7 @@ Desarrollo de una página web con WordPress, que incluya llamadas a una API y un
 
 [![Dise-o-web.png](https://i.postimg.cc/rwvN5dq5/Dise-o-web.png)](https://postimg.cc/k2vSmg65)
 
+Se incluyó páginas como Inicio, Sobre Nosotros, Productos/Servicios, Contacto.
+
+[![Incluyo.png](https://i.postimg.cc/N0crgRgC/Incluyo.png)](https://postimg.cc/zyxf7bHT)
+
