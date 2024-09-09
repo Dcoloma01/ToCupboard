@@ -16,4 +16,6 @@ Me aseguré de que el sitio cumpla con las mejores prácticas de seguridad desde
 [![imagen-2024-09-09-002159041.png](https://i.postimg.cc/WzChxkWn/imagen-2024-09-09-002159041.png)](https://postimg.cc/GTPLyH18)
 
 Tiene la certificación SSL
+
 [![Certificacion.png](https://i.postimg.cc/7YJC0KhQ/Certificacion.png)](https://postimg.cc/4mZNTbzz)
+
